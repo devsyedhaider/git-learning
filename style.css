@@ -12,3 +12,10 @@ h1 {
 p {
   color: aqua;
 }
+
+button {
+  color: bisque;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 4px;
+}
